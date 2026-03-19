@@ -16,3 +16,5 @@ The big guys (OpenAI, Google, etc)
 * Phi (Microsoft)
 * Deepseek from DeepSeek AI
   
+## GPT
+Generative Pretrained Transformer (GPT)
