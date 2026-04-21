@@ -1,3 +1,7 @@
+# Programs
+
+psl-llm-query-ui is a UI llm model selector
+
 # LLMs
 
 ## Closed-Source Frontier Models (closed source)
