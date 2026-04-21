@@ -1,6 +1,6 @@
 # Programs
 
-psl-llm-query-ui is a UI llm model selector
+`psl-llm-query-ui` is a UI llm model selector
 
 # LLMs
 
